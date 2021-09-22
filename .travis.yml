@@ -1,0 +1,14 @@
+language: csharp
+solution: MorrisGcc.sln
+mono: none
+dist: xenial
+dotnet: 3.1
+install:
+  - dotnet restore
+script:
+  - dotnet restore
+deploy:
+  - provider: octopus_deploy
+    username: thomas@morrisgcc.com
+    password: iPhone5s.
+    site: https://morrisgcc.octopus.app
