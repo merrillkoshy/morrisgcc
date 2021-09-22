@@ -1,0 +1,891 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home page test Should render component 1`] = `
+Array [
+  <header
+    className="header-area sticky-bar header-padding-3 header-res-padding clearfix transparent-bar header-hm-7   "
+  >
+    <div
+      className="container-fluid"
+    >
+      <div
+        className="row"
+      >
+        <div
+          className="col-xl-5 col-lg-6 d-none d-lg-block"
+        >
+          <div
+            className="clickable-menu clickable-mainmenu-active"
+          >
+            <button
+              onClick={[Function]}
+            >
+              <i
+                className="pe-7s-menu"
+              />
+            </button>
+          </div>
+        </div>
+        <div
+          className="col-xl-2 col-lg-2 col-md-6 col-6"
+        >
+          <div
+            className="logo text-center logo-hm5"
+          >
+            <a
+              className="sticky-none"
+              href="/"
+              onClick={[Function]}
+            >
+              <img
+                alt=""
+                src="assets/img/logo/logo-2.png"
+              />
+            </a>
+            <a
+              className="sticky-block"
+              href="/"
+              onClick={[Function]}
+            >
+              <img
+                alt=""
+                src="assets/img/logo/logo.png"
+              />
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="clickable-mainmenu "
+    >
+      <div
+        className="clickable-mainmenu-icon"
+      >
+        <button
+          className="clickable-mainmenu-close"
+          onClick={[Function]}
+        >
+          <span
+            className="pe-7s-close"
+          />
+        </button>
+      </div>
+      <div
+        className="side-logo"
+      >
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+          <img
+            alt=""
+            src="/assets/img/logo/logo.png"
+          />
+        </a>
+      </div>
+      <div
+        className=" sidebar-menu "
+      >
+        <nav>
+          <ul>
+            <li>
+              <a
+                href="/"
+                onClick={[Function]}
+              />
+            </li>
+            <li>
+              <a
+                href="/about"
+                onClick={[Function]}
+              />
+            </li>
+            <li>
+              <a
+                href="/products"
+                onClick={[Function]}
+              >
+                 Products
+              </a>
+            </li>
+            <li>
+              <a
+                href="/blog"
+                onClick={[Function]}
+              />
+            </li>
+            <li>
+              <a
+                href="/contact"
+                onClick={[Function]}
+              />
+            </li>
+          </ul>
+        </nav>
+      </div>
+      <div
+        className="side-social"
+      >
+        <ul>
+          <li>
+            <a
+              className="facebook"
+              href="//www.facebook.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <i
+                className="fa fa-facebook"
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              className="dribbble"
+              href="//www.dribbble.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <i
+                className="fa fa-dribbble"
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              className="pinterest"
+              href="//www.pinterest.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <i
+                className="fa fa-pinterest-p"
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              className="twitter"
+              href="//www.twitter.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <i
+                className="fa fa-twitter"
+              />
+            </a>
+          </li>
+          <li>
+            <a
+              className="linkedin"
+              href="//www.linkedin.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <i
+                className="fa fa-linkedin"
+              />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div
+      className="offcanvas-mobile-menu"
+      id="offcanvas-mobile-menu"
+    >
+      <button
+        className="offcanvas-menu-close"
+        id="mobile-menu-close-trigger"
+        onClick={[Function]}
+      >
+        <i
+          className="pe-7s-close"
+        />
+      </button>
+      <div
+        className="offcanvas-wrapper"
+      >
+        <div
+          className="offcanvas-inner-content"
+        >
+          <div
+            className="offcanvas-mobile-search-area"
+          >
+            <form
+              action="#"
+            >
+              <input
+                placeholder="Search ..."
+                type="search"
+              />
+              <button
+                type="submit"
+              >
+                <i
+                  className="fa fa-search"
+                />
+              </button>
+            </form>
+          </div>
+          <nav
+            className="offcanvas-navigation"
+            id="offcanvas-navigation"
+          >
+            <ul>
+              <li>
+                <a
+                  href="/"
+                  onClick={[Function]}
+                />
+              </li>
+              <li>
+                <a
+                  href="/about"
+                  onClick={[Function]}
+                />
+              </li>
+              <li>
+                <a
+                  href="/products"
+                  onClick={[Function]}
+                >
+                   Products
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/blog"
+                  onClick={[Function]}
+                />
+              </li>
+              <li>
+                <a
+                  href="/contact"
+                  onClick={[Function]}
+                />
+              </li>
+            </ul>
+          </nav>
+          <div
+            className="offcanvas-widget-area"
+          >
+            <div
+              className="off-canvas-contact-widget"
+            >
+              <div
+                className="header-contact-info"
+              >
+                <ul
+                  className="header-contact-info__list"
+                >
+                  <li>
+                    <i
+                      className="fa fa-phone"
+                    />
+                     
+                    <a
+                      href="tel://12452456012"
+                    >
+                      (1245) 2456 012 
+                    </a>
+                  </li>
+                  <li>
+                    <i
+                      className="fa fa-envelope"
+                    />
+                     
+                    <a
+                      href="mailto:info@yourdomain.com"
+                    >
+                      info@yourdomain.com
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div
+              className="off-canvas-widget-social"
+            >
+              <a
+                href="//twitter.com"
+                title="Twitter"
+              >
+                <i
+                  className="fa fa-twitter"
+                />
+              </a>
+              <a
+                href="//instagram.com"
+                title="Instagram"
+              >
+                <i
+                  className="fa fa-instagram"
+                />
+              </a>
+              <a
+                href="//facebook.com"
+                title="Facebook"
+              >
+                <i
+                  className="fa fa-facebook"
+                />
+              </a>
+              <a
+                href="//pinterest.com"
+                title="Pinterest"
+              >
+                <i
+                  className="fa fa-pinterest"
+                />
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>,
+  <div
+    className="slider-area"
+  >
+    <div
+      className="slider-active-2 nav-style-3"
+    >
+      <div
+        className="swiper-container"
+      >
+        <div
+          className="swiper-wrapper"
+        >
+          <div
+            className="slider-height-5 d-flex align-items-center bg-img swiper-slide"
+            style={
+              Object {
+                "backgroundImage": "url(/assets/img/slider/slider-5.jpg)",
+              }
+            }
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-xl-12 col-lg-12 col-md-12 col-12"
+                >
+                  <div
+                    className="slider-content-6 slider-animated-1 text-center"
+                  >
+                    <h1
+                      className="animated"
+                    >
+                      Welcome to Flone
+                    </h1>
+                    <p
+                      className="animated"
+                    >
+                      30% off Summer Vacation
+                    </p>
+                    <div
+                      className="slider-btn-5 btn-hover"
+                    >
+                      <a
+                        className="animated"
+                        href="/shop-grid-standard"
+                        onClick={[Function]}
+                      >
+                        SHOP NOW
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="slider-height-5 d-flex align-items-center bg-img swiper-slide"
+            style={
+              Object {
+                "backgroundImage": "url(/assets/img/slider/slider-5-1.jpg)",
+              }
+            }
+          >
+            <div
+              className="container"
+            >
+              <div
+                className="row"
+              >
+                <div
+                  className="col-xl-12 col-lg-12 col-md-12 col-12"
+                >
+                  <div
+                    className="slider-content-6 slider-animated-1 text-center"
+                  >
+                    <h1
+                      className="animated"
+                    >
+                      Smart Products
+                    </h1>
+                    <p
+                      className="animated"
+                    >
+                      40% off Summer Vacation
+                    </p>
+                    <div
+                      className="slider-btn-5 btn-hover"
+                    >
+                      <a
+                        className="animated"
+                        href="/shop-grid-standard"
+                        onClick={[Function]}
+                      >
+                        SHOP NOW
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <button
+          className="swiper-button-next ht-swiper-button-nav"
+        >
+          <i
+            className="pe-7s-angle-right"
+          />
+        </button>
+        <button
+          className="swiper-button-prev ht-swiper-button-nav"
+        >
+          <i
+            className="pe-7s-angle-left"
+          />
+        </button>
+      </div>
+    </div>
+  </div>,
+  <h1>
+    Loading...
+  </h1>,
+  <div
+    className="subscribe-area-3  pb-100 "
+  >
+    <div
+      className="container-fluid"
+    >
+      <div
+        className="row"
+      >
+        <div
+          className="col-xl-5 col-lg-7 col-md-10 ml-auto mr-auto"
+        >
+          <div
+            className="subscribe-style-3 text-center"
+          >
+            <h2>
+              Subscribe 
+            </h2>
+            <p>
+              Subscribe to our newsletter to receive news on update
+            </p>
+            <div>
+              <div
+                className="subscribe-form-3 mt-35"
+              >
+                <div
+                  className="mc-form"
+                >
+                  <div>
+                    <input
+                      className="email"
+                      placeholder="Youe Email Addres"
+                      required={true}
+                      type="email"
+                    />
+                  </div>
+                  <div
+                    className="clear-3 "
+                  >
+                    <button
+                      className="button"
+                      onClick={[Function]}
+                    >
+                      SUBSCRIBE
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  <div
+    className="image-slider-area"
+  >
+    <div
+      className="image-slider-active"
+    >
+      <div
+        className="swiper-container"
+      >
+        <div
+          className="swiper-wrapper"
+        >
+          <div
+            className="single-image swiper-slide"
+          >
+            <a
+              href="/shop-grid-standard"
+              onClick={[Function]}
+            >
+              <img
+                alt=""
+                src="/assets/img/image-slider/image-slider-1.jpg"
+              />
+            </a>
+          </div>
+          <div
+            className="single-image swiper-slide"
+          >
+            <a
+              href="/shop-grid-standard"
+              onClick={[Function]}
+            >
+              <img
+                alt=""
+                src="/assets/img/image-slider/image-slider-2.jpg"
+              />
+            </a>
+          </div>
+          <div
+            className="single-image swiper-slide"
+          >
+            <a
+              href="/shop-grid-standard"
+              onClick={[Function]}
+            >
+              <img
+                alt=""
+                src="/assets/img/image-slider/image-slider-3.jpg"
+              />
+            </a>
+          </div>
+          <div
+            className="single-image swiper-slide"
+          >
+            <a
+              href="/shop-grid-standard"
+              onClick={[Function]}
+            >
+              <img
+                alt=""
+                src="/assets/img/image-slider/image-slider-4.jpg"
+              />
+            </a>
+          </div>
+          <div
+            className="single-image swiper-slide"
+          >
+            <a
+              href="/shop-grid-standard"
+              onClick={[Function]}
+            >
+              <img
+                alt=""
+                src="/assets/img/image-slider/image-slider-5.jpg"
+              />
+            </a>
+          </div>
+          <div
+            className="single-image swiper-slide"
+          >
+            <a
+              href="/shop-grid-standard"
+              onClick={[Function]}
+            >
+              <img
+                alt=""
+                src="/assets/img/image-slider/image-slider-2.jpg"
+              />
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  <footer
+    className="footer-area  pt-100 pb-70 "
+  >
+    <div
+      className="container"
+    >
+      <div
+        className="row"
+      >
+        <div
+          className="col-lg-2 col-sm-4"
+        >
+          <div
+            className="copyright mb-30"
+          >
+            <div
+              className="footer-logo"
+            >
+              <a
+                href="/"
+                onClick={[Function]}
+              >
+                <img
+                  alt=""
+                  src="/assets/img/logo/logo.png"
+                />
+              </a>
+            </div>
+            <p>
+              © 2020
+               
+              <a
+                href="//hasthemes.com"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                Flone
+              </a>
+              .
+              <br />
+               All Rights Reserved
+            </p>
+          </div>
+        </div>
+        <div
+          className="col-lg-2 col-sm-4"
+        >
+          <div
+            className="footer-widget mb-30 ml-30"
+          >
+            <div
+              className="footer-title"
+            >
+              <h3>
+                ABOUT US
+              </h3>
+            </div>
+            <div
+              className="footer-list"
+            >
+              <ul>
+                <li>
+                  <a
+                    href="/about"
+                    onClick={[Function]}
+                  >
+                    About us
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="/#/"
+                    onClick={[Function]}
+                  >
+                    Store location
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="/contact"
+                    onClick={[Function]}
+                  >
+                    Contact
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="/#/"
+                    onClick={[Function]}
+                  >
+                    Orders tracking
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div
+          className="col-lg-2 col-sm-4"
+        >
+          <div
+            className="footer-widget mb-30 ml-50"
+          >
+            <div
+              className="footer-title"
+            >
+              <h3>
+                USEFUL LINKS
+              </h3>
+            </div>
+            <div
+              className="footer-list"
+            >
+              <ul>
+                <li>
+                  <a
+                    href="/#/"
+                    onClick={[Function]}
+                  >
+                    Returns
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="/#/"
+                    onClick={[Function]}
+                  >
+                    Support Policy
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="/#/"
+                    onClick={[Function]}
+                  >
+                    Size guide
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="/#/"
+                    onClick={[Function]}
+                  >
+                    FAQs
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div
+          className="col-lg-2 col-sm-6"
+        >
+          <div
+            className="footer-widget mb-30 ml-75"
+          >
+            <div
+              className="footer-title"
+            >
+              <h3>
+                FOLLOW US
+              </h3>
+            </div>
+            <div
+              className="footer-list"
+            >
+              <ul>
+                <li>
+                  <a
+                    href="//www.facebook.com"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    Facebook
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="//www.twitter.com"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    Twitter
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="//www.instagram.com"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    Instagram
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="//www.youtube.com"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    Youtube
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div
+          className="col-lg-4 col-sm-6"
+        >
+          <div
+            className="footer-widget mb-30 ml-70"
+          >
+            <div
+              className="footer-title"
+            >
+              <h3>
+                SUBSCRIBE
+              </h3>
+            </div>
+            <div
+              className="subscribe-style"
+            >
+              <p>
+                Get E-mail updates about our latest shop and special offers.
+              </p>
+              <div>
+                <div
+                  className="subscribe-form"
+                >
+                  <div
+                    className="mc-form"
+                  >
+                    <div>
+                      <input
+                        className="email"
+                        id="mc-form-email"
+                        placeholder="Enter your email address..."
+                        type="email"
+                      />
+                    </div>
+                    <div
+                      className="clear"
+                    >
+                      <button
+                        className="button"
+                        onClick={[Function]}
+                      >
+                        SUBSCRIBE
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      className="scroll-top "
+      onClick={[Function]}
+    >
+      <i
+        className="fa fa-angle-double-up"
+      />
+    </button>
+  </footer>,
+]
+`;
